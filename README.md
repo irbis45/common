@@ -623,6 +623,19 @@ Rest left, transform function
 
 ### rmdirp(dir, cb)
 
+### rmRecursive(path, cb)
+
+- `path`: [`<string>`][string] path to a file or directory to be removed
+- `cb`: [`<Function>`][function] callback
+
+Recursively remove directory
+
+### async rmRecursivePromise(path)
+
+- `path`: [`<string>`][string] path to a file or directory to be removed
+
+Recursively remove directory
+
 ### generateKey(length, possible)
 
 - `length`: [`<number>`][number] key length
