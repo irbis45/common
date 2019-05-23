@@ -8,6 +8,10 @@ and this project adheres to
 
 ## [Unreleased][unreleased]
 
+### Added
+
+- `MemoryWritable` stream implementation.
+
 ## [2.0.0][] - 2019-04-26
 
 ### Added
